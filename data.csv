@@ -1,0 +1,31 @@
+owner,vehicle_name,vehicle_make,vehicle_type,age,kilometers_driven,1st_hand,2nd_hand,registration_number,occupation
+Ben,Mercedes Benz,Daimler AG,Limousine,5,9789,no,yes,TN03RD8421,TEACHER
+Richard,Hyundai Equus,Hyundai,Limousine,2,1877,yes,no,TS65YT3421,DOCTOR
+Ward,Porsche Cayenne,Volkswagen,Limousine,2,8767,yes,no,AP65YT3421,BUSINESSMAN
+Bell,Cadillac XTS,General motors,Limousine,3,561,no,yes,TS09UT4321,PROFESSOR
+Julia,Bentley Mulsanne,Bentley,Limousine,6,655,yes,no,KA45HK8731,STUDENT
+john,Swift,Maruti,Hatchback,4,780,yes,no,AP21TX2003,BUSINESSMAN
+Alex,i20,Maruti,Hatchback,5,5430,yes,no,TN09WS3456,TEACHER
+James,i10,Maruti,Hatchback,5,5400,no,yes,TN19XS3486,DOCTOR
+Thomas,Baleno,Maruti,Hatchback,2,1764,yes,no,TS09WS3496,PROFESSOR
+Miller,Wagon,Maruti,Hatchback,4,1435,yes,no,TS39AS3056,ACTOR
+Anderson,Verna,Hyundai,Sedans,2,3450,no,yes,KL34ET8790,BUSINESSMAN
+Smith,Virtus,Volkswagen,Sedans,4,454,yes,no,AP05TY6701,PROFESSOR
+Arun,skoda slavia,Volkswagen,Sedans,2,6218,yes,no,RJ02TR2341,DOCTOR
+Jones,Audi,Volkswagen,Sedans,3,2336,no,yes,AP03YT6571,TEACHER
+Taylor,BMW,BMW,Sedans,1,2036,yes,no,TS04WA2300,ACTOR
+Stewart,MG,SAIC Motor,Premium SUV,3,3444,yes,no,TS32RE4567,ACTOR
+Morris,BMW X5,BMW,Premium SUV,5,778,no,yes,AP98YU6709,TEACHER
+Morgan,Volvo XC60,Geely,Premium SUV,2,5661,yes,no,TS45VB760,BUSINESSMAN
+Peter,Nissan,Renault,Premium SUV,4,2345,yes,no,KL65TY4321,DOCTOR
+Cook,BMW X7,BMW,Premium SUV,5,778,no,yes,AP78YU6329,DOCTOR
+Martin,Scorpio,Mahindra,SUV,4,892,yes,no,AP08TY567,TEACHER
+James,Thar,Mahindra,SUV,1,9023,yes,no,AP01RW0001,BUSINESSMAN
+Nelson,Creta,Hyundai,SUV,3,6700,no,yes,TS32QE4321,BUSINESSMAN
+Allen,XUV 700,Mahindra,SUV,2,5660,no,yes,TN76EW2135,DOCTOR
+Robert,Fortuner,Toyota,SUV,2,907,yes,no,KA43UI0872,PROFESSOR
+Ross,Renault kwid,Renault,Crossovers,2,5665,yes,no,DL65TY3241,TEACHER
+Scott,Ford,Nissan,Crossovers,2,605,no,yes,KL65TY3241,BUSINESSMAN
+Hill,Maruti suzuki,Suzuki,Crossovers,4,7165,yes,no,KA43TY3241,PROFESSOR
+Evans,Tata Tiago NRG,Tata,Crossovers,3,980,no,yes,AP15TY3841,DOCTOR
+Rogers,Ford,Ford,Crossovers,4,1651,no,yes,KA55XY3041,TEACHER
